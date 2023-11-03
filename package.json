@@ -8,7 +8,9 @@
   },
   "author": "",
   "license": "ISC",
+  "cypress": "^12.17.4",
   "devDependencies": {
-    "cypress": "^12.17.4"
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "@badeball/cypress-cucumber-preprocessor": "^18.0.6"
   }
 }
